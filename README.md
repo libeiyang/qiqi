@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 <!--
 body {
-	background-image: url(背景.jpg);
+	background-image: <img src="C:\Users\10135\Desktop\1.jpg" />
 }
 .a {
 	font-family: "Times New Roman", Times, serif;
@@ -16,7 +16,6 @@ body {
 }
 .STYLE3 {font-family: "Times New Roman", Times, serif; font-size: xx-large; font-style: oblique; font-weight: bold; color: #0033FF; text-decoration: blink; }
 -->
-</style>
 </head>
 
 <body>
@@ -36,7 +35,8 @@ body {
     <p class="a">&nbsp;</p>
     <p class="a">&nbsp;</p>
     <p class="a">天空再高，踮起就更接近阳光!</p></td>
-    <td align="center"><img src="5102550_085439177252_2.jpg" width="200" height="500" align="absmiddle" /></td>
+    <td align="center"><img src="C:\Users\10135\Desktop\2.jpg" />
+ width="200" height="500" align="absmiddle" /></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -53,7 +53,8 @@ body {
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 <!--
 body {
-	background-image: url(m.jpg);
+	background-image: <img src="C:\Users\10135\Desktop\3.jpg" />
+
 }
 .STYLE1 {color: #0000CC}
 .STYLE2 {color: #0000FF}
@@ -75,7 +76,7 @@ body {
     <td height="527">&nbsp;</td>
     <td align="left"><p>&nbsp;</p>
       <p>&nbsp;</p>
-      <h1 class="STYLE1">队长：</h1>
+      <h1 class="STYLE1">成员：</h1>
       <div>
         <h2 class="STYLE3"> 李北阳（学号：2016110099）；<br />
           王子睿（学号：2016110098）；<br />
@@ -146,15 +147,7 @@ color:red;
 <p>希望越多失望越多，     
 <p>往事只能留着慢慢的回味，     
 <p>人总要生活在现实中，不是吗？<br>
-      
-<p>走近心灵能倾听心灵的跳动，     
-<p>走近情感能感觉情感的炽热，     
-<p>走近尊严能体验尊严的高贵，     
-<p>走近宽容能体验宽容的博大。     
-<p>体谅是一缕清风，     
-<p>微笑是一份礼物，     
-<p>理解是一座桥梁，     
-<p>赞赏是一束鲜花。<br>      
+<br>      
 </div>
 </body>
 <html>
