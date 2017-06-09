@@ -2,8 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>无标题文档</title>
-<style type="text/css">
 <!--
 body {
 	background-image: url(背景.jpg);
@@ -34,7 +32,6 @@ body {
       <p class="a">&nbsp;</p>
     <p class="a">&nbsp;</p>
     <p class="a">&nbsp;</p>
-    <p class="a"><a href="a.html">点击进入</a></p>
     <p class="a">&nbsp;</p>
     <p class="a">&nbsp;</p>
     <p class="a">&nbsp;</p>
@@ -49,13 +46,11 @@ body {
 </table>
 <bgsound src="I DO.mp3" loop="" /></body>
 </html>
-4、[2-1.html]
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>无标题文档</title>
-<style type="text/css">
 <!--
 body {
 	background-image: url(m.jpg);
@@ -82,13 +77,17 @@ body {
       <p>&nbsp;</p>
       <h1 class="STYLE1">队长：</h1>
       <div>
-        <h2 class="STYLE3"> 李北阳（学号：2016110099），<br />
+        <h2 class="STYLE3"> 李北阳（学号：2016110099）；<br />
           王子睿（学号：2016110098）；<br />
-          待定</h2>
       </div>
       <h1><br />
         <br />
-     
+     </div></td>    
+ <td valign="top"><table width="288" border="1" align="center" bordercolor="#000000">    
+
+   <tr>     
+  
+        <td width="181">…</td>       </tr>       <tr> 
         <td height="87"><h3>作品名称</h3></td>
         <td>。。。</td>
       </tr>
@@ -103,6 +102,7 @@ body {
       </tr>
     </table></td>
   </tr>
+</div>.
 </table>
 </body>
 <html>
@@ -158,3 +158,4 @@ color:red;
 </div>
 </body>
 <html>
+
