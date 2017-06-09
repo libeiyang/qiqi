@@ -1,154 +1,110 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<!--
-body {
-	background-image: <img src="C:\Users\10135\Desktop\1.jpg" />
-}
-.a {
-	font-family: "Times New Roman", Times, serif;
-	font-size: x-large;
-	font-style: oblique;
-	font-weight: bold;
-	color: #0033FF;
-	text-decoration: blink;
-}
-.STYLE3 {font-family: "Times New Roman", Times, serif; font-size: xx-large; font-style: oblique; font-weight: bold; color: #0033FF; text-decoration: blink; }
--->
-</head>
+<html><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-<body>
-<table width="1024" height="620" border="0" align="center">
-  <tr>
-    <td width="329" height="88">&nbsp;</td>
-    <td width="412">&nbsp;</td>
-    <td width="261">&nbsp;</td>
-  </tr>
-  <tr>
-    <td height="504" align="center"><img src="5102550_085439177252_2.jpg" width="200" height="500" /></td>
-    <td align="center" valign="top"><h1 class="STYLE3">欢 迎 进 入 我 的 主 页</h1>
-      <p class="a">&nbsp;</p>
-    <p class="a">&nbsp;</p>
-    <p class="a">&nbsp;</p>
-    <p class="a">&nbsp;</p>
-    <p class="a">&nbsp;</p>
-    <p class="a">&nbsp;</p>
-    <p class="a">天空再高，踮起就更接近阳光!</p></td>
-    <td align="center"><img src="C:\Users\10135\Desktop\2.jpg" />
- width="200" height="500" align="absmiddle" /></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-</table>
-<bgsound src="I DO.mp3" loop="" /></body>
-</html>
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<!--
-body {
-	background-image: <img src="C:\Users\10135\Desktop\3.jpg" />
-
-}
-.STYLE1 {color: #0000CC}
-.STYLE2 {color: #0000FF}
-.STYLE3 {color: #0066FF}
-.STYLE4 {color: #0033CC}
--->
-</style>
-<bgsound src="宇桐非-擦肩而过.mp3" loop=播放方式>
-</head>
-
-<body>
-<table width="950" height="600" border="0" align="center">
-  <tr>
-    <td width="253" height="116" align="right" bordercolor="#FFFFFF"><h2>个人档</h2></td>
-    <td width="369">&nbsp;</td>
-    <td width="464">&nbsp;</td>
-  </tr>
-  <tr>
-    <td height="527">&nbsp;</td>
-    <td align="left"><p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <h1 class="STYLE1">成员：</h1>
-      <div>
-        <h2 class="STYLE3"> 李北阳（学号：2016110099）；<br />
-          王子睿（学号：2016110098）；<br />
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <title>团队介绍</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>薯片队</h1>
       </div>
-      <h1><br />
-        <br />
-     </div></td>    
- <td valign="top"><table width="288" border="1" align="center" bordercolor="#000000">    
-
-   <tr>     
+    </header>
+    <div class="container">
+      <section id="main_content" deep="1">
+        <h3>团队组成</h3>
+          <h2>队长：</h2>
+            <p>后豪（学号：2016111068）</p>
+            <p><a href="https://houhao502.github.io/first-try/">个人主页</a></p>
+          <h2>队员：</h2>
+            <p>罗辑（学号：）</p>
+            <p>秦慧（学号：2016111068）</p>
+            <p>胡恒溢（学号：2016110137）</p>
+        <h3>团队介绍</h3>
+          <p>因课堂上分到了一包老师分发的薯片，再加上大家都比较喜爱薯片，所以叫做薯片队。</p>
+          <p>四人齐心，希望做出好的产品</p><p>
+        </p><h3>项目介绍</h3>
+          <h2>项目名称</h2>
+            <p>智能风扇</p>
+          <h2>项目简介</h2>
+            <p>夏天到来，寝室的风扇开始使用。但是去上课时风扇可能忘了关闭，会造成不必要的浪费。同时，在晚上睡觉时，风扇忘了关可能会着凉。</p>
+            <p>所以，我们想对已有的风扇做一些改动。让风扇在寝室无人时自动关闭，在夜间运作超过一定时间后也自动关闭。减少浪费和防止着凉。</p><p>
+        </p><h3>学习心得</h3>
+          <h2>后豪</h2>
+            <p>一学期的学期下来，学习了很多关于代码的知识。从小白到入门，每节课的内容都不一样。从第一节课的使用GitHUb，再到用Autodesk Fusion 360
+        进行3D建模，然后学习激光切割与3D打印，还有Arduino的用法，用Eagle画电路图，还有Python的使用，以及后面关于网络的知识，都为我开启了一扇扇大门
+        让我对代码产生了很大的兴趣。如今，代码几乎可以说占现代社会的大部分，学会使用代码，对以后的学习工作都会有很大的帮助。</p>
+          <h2>罗辑</h2>
+            <p>暂无</p>
+          <h2>秦慧</h2>
+            <p>暂无</p>
+          <h2>胡恒溢</h2>
+            <p>“从代码到实物”是一门非常有趣的课程！一开始上课的时候，觉得很新奇，感觉自己可以从这门课程中学到很多的知识。在这一学期的学习中，我们学习
+              到了许多软件，虽说自己只是入门水平，不过我依然感觉自己的能力和知识都得到了很大的提升！在老师的教导下，我知道了如何应用软件，将代码一步步的“转
+              换”为实物，也从中收获了许多的快乐。多一项技能，未来就多了一份资本，我相信，在未来的生活中，如今学习到的各个软件都会有一定程度的应用！</p>
+      </section>
+    </div>
   
-        <td width="181">…</td>       </tr>       <tr> 
-        <td height="87"><h3>作品名称</h3></td>
-        <td>。。。</td>
-      </tr>
-      <tr>
-        <td height="112"><h3>作品简介</h3></td>
-        <td align="left">…..</td>
-      </tr>
-<tr>
-        
-        <td height="186"><h3>照片</h3></td>
-        <td align="left"><img src="psu.jpg" width="137" height="137" /></td>
-      </tr>
-    </table></td>
-  </tr>
-</div>.
-</table>
-</body>
-<html>
-6、[4-1.html]
-<html>
+
+</body></html>
 <head>
-<title> 随笔</title>
-<style>
-<!--
-body{font-family:"楷体_GB2312","隶书";
-font-style:normal;
-font-weight:400;
-font-size:2em;
-}
-div{
-text-align:center;
-line-height:2em;
-color:red;
-}
--->
-</style>
-<center><h1>学习心得</h1></center>
-</head>
-<body bgcolor="lightgreen">
-<bgsound src="凤凰传奇-郎的诱惑.mp3" loop=播放方式>
-<div><p>李北阳 
-<p>在这节课上，我学习到了很多东西，了解到了单片机的构造与原理     
-<p>明白了基础的通信方法   
-<p>学习了arduino的程序编译以及各种传感器与开发版的配合与使用；     
-<p>当然也了解了基本的网页设计的方法与html语言的编译   
-<p>在学习的过程中体会到了从代码到实物的乐趣 
-<p>甚至都产生了想转专业的欲望<br>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-<p>王子睿   
-<p>财富总与诚信的人相伴，     
-<p>智慧总与高尚的人相伴，     
-<p>魅力总与幽默的人相伴。     
-<p>得不到的永远是最好的，     
-<p>看不清的永远是美丽的，     
-<p>梦想中的永远是完美无缺的，     
-<p>希望越多失望越多，     
-<p>往事只能留着慢慢的回味，     
-<p>人总要生活在现实中，不是吗？<br>
-<br>      
-</div>
-</body>
-<html>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <title>团队介绍</title>
+  </head>
+<html><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <title>团队介绍</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1>薯片队</h1>
+      </div>
+    </header>
+    <div class="container">
+      <section id="main_content" deep="1">
+        <h3>团队组成</h3>
+          <h2>队长：</h2>
+            <p>后豪（学号：2016111068）</p>
+            <p><a href="https://houhao502.github.io/first-try/">个人主页</a></p>
+          <h2>队员：</h2>
+            <p>罗辑（学号：）</p>
+            <p>秦慧（学号：2016111068）</p>
+            <p>胡恒溢（学号：2016110137）</p>
+        <h3>团队介绍</h3>
+          <p>因课堂上分到了一包老师分发的薯片，再加上大家都比较喜爱薯片，所以叫做薯片队。</p>
+          <p>四人齐心，希望做出好的产品</p><p>
+        </p><h3>项目介绍</h3>
+          <h2>项目名称</h2>
+            <p>智能风扇</p>
+          <h2>项目简介</h2>
+            <p>夏天到来，寝室的风扇开始使用。但是去上课时风扇可能忘了关闭，会造成不必要的浪费。同时，在晚上睡觉时，风扇忘了关可能会着凉。</p>
+            <p>所以，我们想对已有的风扇做一些改动。让风扇在寝室无人时自动关闭，在夜间运作超过一定时间后也自动关闭。减少浪费和防止着凉。</p><p>
+        </p><h3>学习心得</h3>
+          <h2>后豪</h2>
+            <p>一学期的学期下来，学习了很多关于代码的知识。从小白到入门，每节课的内容都不一样。从第一节课的使用GitHUb，再到用Autodesk Fusion 360
+        进行3D建模，然后学习激光切割与3D打印，还有Arduino的用法，用Eagle画电路图，还有Python的使用，以及后面关于网络的知识，都为我开启了一扇扇大门
+        让我对代码产生了很大的兴趣。如今，代码几乎可以说占现代社会的大部分，学会使用代码，对以后的学习工作都会有很大的帮助。</p>
+          <h2>罗辑</h2>
+            <p>暂无</p>
+          <h2>秦慧</h2>
+            <p>暂无</p>
+          <h2>胡恒溢</h2>
+            <p>“从代码到实物”是一门非常有趣的课程！一开始上课的时候，觉得很新奇，感觉自己可以从这门课程中学到很多的知识。在这一学期的学习中，我们学习
+              到了许多软件，虽说自己只是入门水平，不过我依然感觉自己的能力和知识都得到了很大的提升！在老师的教导下，我知道了如何应用软件，将代码一步步的“转
+              换”为实物，也从中收获了许多的快乐。多一项技能，未来就多了一份资本，我相信，在未来的生活中，如今学习到的各个软件都会有一定程度的应用！</p>
+      </section>
+    </div>
+  
+
+</body></html>
